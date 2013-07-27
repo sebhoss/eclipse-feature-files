@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='3'>
+    <iu id='ccw.feature.feature.group' name='Counterclockwise (Clojure plugin for Eclipse)' version='0.12.3.STABLE001'>
+      <repositories size='1'>
+        <repository location='http://updatesite.ccw-ide.org/stable/'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.standard' name='Eclipse Standard/SDK' version='2.0.0.20130613-0530'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.feature.feature.group' name='m2e - Maven Integration for Eclipse' version='1.4.0.20130601-0317'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
