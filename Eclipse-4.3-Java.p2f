@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='14'>
+    <iu id='org.eclipse.mylyn.github.feature.feature.group' name='Eclipse GitHub integration with task focused interface' version='3.0.0.201306101825-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.standard' name='Eclipse Standard/SDK' version='2.0.0.20130613-0530'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.feature.feature.group' name='m2e - Maven Integration for Eclipse' version='1.4.0.20130601-0317'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.sonatype.m2e.mavenarchiver.feature.feature.group' name='m2e connector for mavenarchiver pom properties' version='0.15.0.201207090125'>
+      <repositories size='2'>
+        <repository location='http://repo1.maven.org/maven2/.m2e/connectors/m2eclipse-mavenarchiver/0.15.0/N/0.15.0.201207090125/'/>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.m2e.jdt.feature.feature.group' name='M2E connector for the Eclipse JDT Compiler' version='1.0.1.201209200903'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/m2e-extensions/m2e-jdt-compiler/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.apt.feature.feature.group' name='Maven Integration for Eclipse JDT APT' version='1.0.1.201209200721'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/m2e-extensions/m2e-apt/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.ide_feature.feature.group' name='Mylyn Context Connector: Eclipse IDE' version='3.9.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.java_feature.feature.group' name='Mylyn Context Connector: Java Development' version='3.9.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.gerrit.feature.feature.group' name='Mylyn Reviews Connector: Gerrit' version='2.0.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn_feature.feature.group' name='Mylyn Task List' version='3.9.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.context_feature.feature.group' name='Mylyn Task-Focused Interface' version='3.9.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.git.feature.group' name='Mylyn Versions Connector: Git' version='1.1.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.wikitext_feature.feature.group' name='Mylyn WikiText' version='1.8.0.v20130612-0100'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.sonatype.tycho.m2e.feature.feature.group' name='Tycho Project Configurators' version='0.6.0.201207302152'>
+      <repositories size='1'>
+        <repository location='http://repo1.maven.org/maven2/.m2e/connectors/m2eclipse-tycho/0.6.0/N/0.6.0.201207302152/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
